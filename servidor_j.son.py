@@ -13,7 +13,8 @@ while True:
     elif l['operador']=='-':
         res=str(l['valor1'] - l['valor2'])
     elif l['operador']=='x':
-        print("se resolvio una mul".format(res=str(l['valor1'] * l['valor2'])))
+        res=str(l['valor1'] * l['valor2'])
+        print("se resolvio una mul"+res)
     elif l['operador']=='/':
         res=str(l['valor1'] / l['valor2'])
 
