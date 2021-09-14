@@ -1,0 +1,4 @@
+1)control +shild + l ---> borrar un lina 
+2)        ⇧ ⌥ ↑ / ↓
+        Ctrl + Alt+ ↑ / ↓ para escribir lo mismos en cada linea 
+3)
